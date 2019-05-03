@@ -1,0 +1,4 @@
+-importar taller.sql en base de datos con usuario "new" y schema taller
+-ejecutar el comando npm install
+-ejecutar el comando node bd.js
+-ingresar a localhost:3000/nombre/X, donde X puede ser 1,2 o 3 (ya que no hay mas datos por ahora)
